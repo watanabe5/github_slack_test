@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-
+OSバージョン: iOS11
